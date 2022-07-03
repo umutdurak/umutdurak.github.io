@@ -8,7 +8,9 @@ of the [German Aerospace Center (DLR)](https://dlr.de){:target="_blank"}, profes
 I have long been involved in aeronautical informatics, the interdisciplinary domain of computer science and aeronautical engineering. 
 My recent research interests lie generally in engineering of safety critical software intensive airborne systems. 
 My backgrround is modeling and simulation, and simulation engineering. I worked a long time on modeling and simulation based engineering of airborne systems. At the DLR, I have a research group on assured embedded systems, better said safety critical avionics systems.
-At the same time, at the TU Clausthal I also coordinate the collaborative research group on
-aeronautical informatics. I offer two course, the Simulation Engineering in winter semesters, and the Aeronautical
+At the same time, I coordinate the collaborative research group on
+[Aeronautical Informatics](https://www.ifi.tu-clausthal.de/abteilungen/big-data-and-technical-information-systems-bdis/aeronautical-informatics){:target="_blank"} at the TU Clausthal. I offer two course, the Simulation Engineering in winter semesters, and the Aeronautical
 Informatics at the summer semesters. I also supervise master and PhD theses. 
+
+You can find the list of my publications at [Google Scholar](https://scholar.google.com.tr/citations?user=JgyukpMAAAAJ&hl=en&oi=ao){:target="_blank"}. We also have a Github Organization for Aeronautical Infor
 
