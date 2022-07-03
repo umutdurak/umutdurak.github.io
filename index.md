@@ -1,4 +1,3 @@
-## Welcome to my Homepage
 
 This is the home page of Umut Durak. I am a research scientist at the [Institute of Flight Systems](https://dlr.de/ft)
 of the [German Aerospace Center (DLR)](https://dlr.de) , professor at the at the [Institute of Informatics](https://ifi.tu-clausthal.de) of
