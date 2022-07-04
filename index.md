@@ -1,6 +1,7 @@
 
 This is the home page of Umut Durak. I am a research scientist at the [Institute of Flight Systems](https://dlr.de/ft){:target="_blank"}
-of the [German Aerospace Center (DLR)](https://dlr.de){:target="_blank"}, professor at the at the [Institute of Informatics](https://ifi.tu-clausthal.de){:target="_blank"} of the [Clausthal University of Technology (TU Clausthal)](https://www.tu-clausthal.de){:target="_blank"}. I am a jazz listener, an occasional cycler, a seldom photographer, a constant reader, an hardly speaker, a mediacore listener, a bad mandoline and guitar player, a good husband and the best father ever:) 
+of the [German Aerospace Center (DLR)](https://dlr.de){:target="_blank"}, professor at the at the 
+[Institute of Informatics](https://ifi.tu-clausthal.de){:target="_blank"} of the [Clausthal University of Technology (TU Clausthal)](https://www.tu-clausthal.de){:target="_blank"}. I am a jazz listener, an occasional cycler, a seldom photographer, a constant reader, an hardly speaker, a mediacore listener, a bad mandoline and guitar player, a good husband and the best father ever:) 
 
 ### Academic Life
 
