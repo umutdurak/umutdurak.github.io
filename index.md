@@ -12,5 +12,10 @@ At the same time, I coordinate the collaborative research group on
 [Aeronautical Informatics](https://www.ifi.tu-clausthal.de/abteilungen/big-data-and-technical-information-systems-bdis/aeronautical-informatics){:target="_blank"} at the TU Clausthal. I offer two course, the Simulation Engineering in winter semesters, and the Aeronautical
 Informatics at the summer semesters. I also supervise master and PhD theses. 
 
-You can find the list of my publications at [Google Scholar](https://scholar.google.com.tr/citations?user=JgyukpMAAAAJ&hl=en&oi=ao){:target="_blank"}. We also have a Github Organization for Aeronautical Infor
+You can find the list of my publications at [Google Scholar](https://scholar.google.com.tr/citations?user=JgyukpMAAAAJ&hl=en&oi=ao){:target="_blank"}. We also have a Github Organization for [Aeronautical Informatics](https://github.com/aeronautical-informatics){:target="_blank"} where you can see some of our open sourced work. My professional profile is well presented at my [LinkedIn Profile](https://www.linkedin.com/in/umutdurak/){:target="_blank"}. I also do a bit of [twittering](https://twitter.com/udurak){:target="_blank"} and [instagraming](https://www.instagram.com/wojakzek/){:target="_blank"}. 
+
+## Real Life
+
+Is the academic one not real? It is also real, but I believe not real real. What ever it means :) Here I would like to give links to my blogs that has a glimpse of what I do daily, better said what I did. 
+[Umut'un Günlügü](http://umutungunlugu.blogspot.com){:target="_blank"} is the blogger archive of my blog that I wrote between 2005 and 2016. That one is in Turkish. The next one is [Umut'in Fotograf Sergisi](http://umutunfotografsergisi.blogspot.com){:target="_blank"}; that is the fotoblog before the Instagram times. Still there for anyone who would like to browse my early work. Just a remark there, there is no later one. The last to mention is the [blog.umutdurak.de](http://blog.umutdurak.de){:target="_blank"} that will soon come to life, where I would like post about the "real life" in English.
 
